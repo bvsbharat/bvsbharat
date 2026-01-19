@@ -18,16 +18,10 @@ I'm deep in the intersection of voice technology, agentic AI, and insurance inno
 - Voice-first customer interaction systems
 - AI-driven workflow optimization in insurance
 - Production-grade integrations that insurance teams actually use
-
+  
 ## 👨‍💻 About Me
 
-**Senior Software Lead** at [Guidewire Software](https://www.guidewire.com), where I'm driving the development of next-generation AI agents and voice-powered solutions for the insurance industry.
-
-## 🤝 Let's Connect
-
-Whether you're exploring voice AI for insurance, building conversational agents, developing agentic applications, or working on AI-driven automation, I'd love to exchange ideas and collaborate.
-
-**Let's connect:** [linkedin.com/in/bharatsatya](https://www.linkedin.com/in/bharatsatya/)
+**Senior Software Lead** at [Guidewire Software](https://www.guidewire.com), driving next-generation AI agents and voice-powered solutions for insurance. Building something in voice AI, agentic apps, or insurance tech? Let's exchange ideas and collaborate → [linkedin.com/in/bharatsatya](https://www.linkedin.com/in/bharatsatya/)
 
 ---
 
