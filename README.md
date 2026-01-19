@@ -1,17 +1,12 @@
-
 # 👋 Hi, I'm Bharat Satya
 
 I build production-ready voice AI agents and agentic applications that are transforming how insurance companies handle claims and customer interactions.
 
-With 15+ years in web development and the last 3 years specializing in conversational/voice AI agents and Agentic App's, I create solutions that actually work—not just demos, but deployed systems processing real claims and handling live customer conversations in the insurance domain.
+With 15+ years in web development and the last 3 years specializing in conversational/voice AI agents and Agent SDKs, I create solutions that actually work—not just demos, but deployed systems processing real claims and handling live customer conversations in the insurance domain.
 
-## 🚀 What I Build
+## 🚀 What I Work On
 
-- **Voice AI Agents**: Production systems for automated claim processing and intelligent customer support
-- **Agentic Applications**: AI-driven apps that autonomously handle complex insurance workflows
-- **Agent SDKs**: Developer tools and frameworks for building different kinds of web and agent experiences
-- **Conversational AI Systems**: End-to-end solutions that streamline traditional insurance operations
-- **High-Performance Web Apps**: Scalable solutions built on 15 years of web development expertise
+**Voice AI Agents & Agentic Applications**: Production systems for automated claim processing, intelligent customer support, and autonomous insurance workflows • **Agent SDKs & Frameworks**: Developer tools for building different kinds of web and agent-powered experiences • **Conversational AI Systems**: End-to-end voice-first solutions that streamline traditional insurance operations • **High-Performance Web Apps**: Scalable, AI-driven applications built on 15 years of web development expertise and battle-tested in real business operations.
 
 ## 💡 Current Focus
 
@@ -24,20 +19,16 @@ I'm deep in the intersection of voice technology, agentic AI, and insurance inno
 - AI-driven workflow optimization in insurance
 - Production-grade integrations that insurance teams actually use
 
-## 🛠️ What I Work On
+## 👨‍💻 About Me
 
-- **AI Agents**: Voice agents, conversational agents, autonomous claim processing agents
-- **Agent Development**: SDKs and frameworks for building agent-powered experiences
-- **Web Experiences**: Next-generation web applications powered by agentic AI
-- **Insurance Tech**: Real solutions for claim workflows, customer service, and process automation
-- **Production Systems**: Battle-tested implementations that handle real business operations
+**Senior Software Lead** at [Guidewire Software](https://www.guidewire.com), where I'm driving the development of next-generation AI agents and voice-powered solutions for the insurance industry.
 
 ## 🤝 Let's Connect
 
-Whether you're exploring voice AI for insurance, building conversational agents, developing agentic applications, or working on AI-driven automation, I'd love to exchange ideas. I'm always learning, sharing insights, and staying ahead of what's next in AI, voice technology, and agent-powered experiences.
+Whether you're exploring voice AI for insurance, building conversational agents, developing agentic applications, or working on AI-driven automation, I'd love to exchange ideas and collaborate.
 
-**Building something in the voice AI, agentic apps, or insurance tech space? Let's chat.**
+**Let's connect:** [linkedin.com/in/bharatsatya](https://www.linkedin.com/in/bharatsatya/)
 
 ---
 
-*15 years of web development • 2-3 years specializing in conversational/voice AI agents & Agent SDKs • Focused on insurance innovation & agentic experiences*
+*15 years of web development • 2-3 years specializing in conversational/voice AI agents & Agent SDKs • Senior Software Lead at Guidewire Software*
