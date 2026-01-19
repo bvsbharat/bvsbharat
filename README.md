@@ -4,9 +4,13 @@ I build production-ready voice AI agents and agentic applications that are trans
 
 With 15+ years in web development and the last 3 years specializing in conversational/voice AI agents and Agent SDKs, I create solutions that actually work—not just demos, but deployed systems processing real claims and handling live customer conversations in the insurance domain.
 
-## What I Work On
+## What I Build
 
-**Voice AI Agents & Agentic Applications**: Production systems for automated claim processing, intelligent customer support, and autonomous insurance workflows • **Agent SDKs & Frameworks**: Developer tools for building different kinds of web and agent-powered experiences • **Conversational AI Systems**: End-to-end voice-first solutions that streamline traditional insurance operations • **High-Performance Web Apps**: Scalable, AI-driven applications built on 15 years of web development expertise and battle-tested in real business operations.
+- **Voice AI Agents**: Production systems for automated claim processing and intelligent customer support
+- **Agentic Applications**: AI-driven apps that autonomously handle complex insurance workflows
+- **Agent SDKs**: Developer tools and frameworks for building different kinds of web and agent experiences
+- **Conversational AI Systems**: End-to-end solutions that streamline traditional insurance operations
+- **High-Performance Web Apps**: Scalable solutions built on 15 years of web development expertise
 
 ## Current Focus
 
