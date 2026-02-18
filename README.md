@@ -35,7 +35,14 @@ I'm deep in the intersection of voice technology, agentic AI, and insurance inno
 - Voice-first customer interaction systems
 - AI-driven workflow optimization in insurance
 - Production-grade integrations that insurance teams actually use
-  
+
+
+## GitHub Activity
+
+![GitHub Contribution Graph](https://ghchart.rshah.org/bvsbharat)
+
+
+
 ## Collaboration 
 
 Building something in voice AI, agentic apps, or insurance tech? Let's exchange ideas and collaborate → [linkedin.com/in/bharatsatya](https://www.linkedin.com/in/bharatsatya/)
@@ -43,3 +50,5 @@ Building something in voice AI, agentic apps, or insurance tech? Let's exchange 
 ---
 
 *15 years of web development • 2-3 years specializing in conversational/voice AI agents & Agent SDKs • Senior Software Lead at Guidewire Software*
+
+
