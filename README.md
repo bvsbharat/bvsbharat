@@ -44,7 +44,6 @@
 - ⚡ **[chaos-coder](https://github.com/aj47/chaos-coder)** - Generate 9 separate websites in seconds with chaotic editing capabilities (89 ⭐)
 - 🗺️ **[Gemini-Navigator](https://github.com/bvsbharat/Gemini-Navigator)** - Public websites like IRS.gov often frustrate users with endless searching for vital information. GeminiNavigator guides users straight to answers, saving time and effort.
 - 🏢 **[asidely-website](https://github.com/bvsbharat/asidely-website)** - Professional website and landing page platform
-- 🚀 **[10xDev](https://github.com/bvsbharat/10xDev)** - Developer productivity suite
 
 ### 📊 Data & Analytics
 
