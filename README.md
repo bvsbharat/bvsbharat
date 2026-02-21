@@ -43,11 +43,72 @@ Building at the intersection of **voice technology**, **agentic AI**, and **ente
 
 ## Open Source & Projects
 
-All my public repos showcase practical agent-building patterns, voice AI implementations, and developer tools. Check out my [GitHub repos](https://github.com/bvsbharat?tab=repositories) for:
-- Voice agent implementations
-- Agent SDK examples
-- Web app frameworks
-- DevOps & automation tools
+All my public repos showcase practical agent-building patterns, voice AI implementations, and developer tools.
+
+### Agent SDKs & Frameworks (11)
+
+- **[open-agent-sdks](https://github.com/bvsbharat/open-agent-sdks)** -  Open Agent SDKs: Technical Master Guide -  If This Helped You, Please Star! 🌟
+- **[TuyaOpen](https://github.com/bvsbharat/TuyaOpen)** - Next-gen AI+IoT framework for T2/T3/T5AI/ESP32/and more – Fast IoT and AI Agent hardware integration
+- **[agent-builder-hacka](https://github.com/bvsbharat/agent-builder-hacka)** - A repository for building and experimenting with AI agents
+- **[TaskAgent](https://github.com/bvsbharat/TaskAgent)** - TaskAgent
+- **[AgentOS-AWS-hack](https://github.com/bvsbharat/AgentOS-AWS-hack)**
+- **[agentOS-aws](https://github.com/bvsbharat/agentOS-aws)**
+- **[data-analyst-agent](https://github.com/bvsbharat/data-analyst-agent)**
+- **[homebrew-superagents](https://github.com/bvsbharat/homebrew-superagents)**
+- **[open-voice-agent-](https://github.com/bvsbharat/open-voice-agent-)** - open voice agent 
+- **[support-agent](https://github.com/bvsbharat/support-agent)** - support-agent
+- **[tictactoe](https://github.com/bvsbharat/tictactoe)** - A simple agent that plays tic tac toe with you
+
+### Voice AI Projects (4)
+
+- **[VoiceInk](https://github.com/bvsbharat/VoiceInk)** - Voice-to-text app for macOS to transcribe what you say to text almost instantly
+- **[SleekVoice](https://github.com/bvsbharat/SleekVoice)**
+- **[homebrew-sleek](https://github.com/bvsbharat/homebrew-sleek)** - Homebrew tap for SleekVoice
+- **[sleekvoice-releases](https://github.com/bvsbharat/sleekvoice-releases)**
+
+### Agentic Applications (1)
+
+- **[ClaimReimagined](https://github.com/bvsbharat/ClaimReimagined)** - Claim Reimagined
+
+### Web Apps & Tools (6)
+
+- **[superhack](https://github.com/bvsbharat/superhack)** - Super Bowl Hackathon - Live Analytics Dashboard for Sports Events. Real-time data visualization and insights.
+- **[bolt.new](https://github.com/bvsbharat/bolt.new)** - Prompt, run, edit, and deploy full-stack web applications
+- **[10xDev](https://github.com/bvsbharat/10xDev)** - 9 separate websites IN SECONDS for you to chaotically edit!
+- **[IllustratED](https://github.com/bvsbharat/IllustratED)** - IllustratED - An educational application for children focused on History, Science, and Math. The app uses AI-generated illustrations to make learning engaging and visual using Gemini 2.5 Flash Image (nano banana)
+- **[Asidely.app](https://github.com/bvsbharat/Asidely.app)**
+- **[cmd-website](https://github.com/bvsbharat/cmd-website)** - cmd-website
+
+### Demos & Experiments (2)
+
+- **[landingai-graph](https://github.com/bvsbharat/landingai-graph)** - 🦥 FinTech Hype Cycle Intelligence System - Knowledge Graphs + RAG | Financial AI Hackathon 2025
+- **[Hackathon---preview](https://github.com/bvsbharat/Hackathon---preview)** - Hackathon - preview
+
+### Other (21)
+
+- **[Optimus.ai](https://github.com/bvsbharat/Optimus.ai)**
+- **[google-slate.ai](https://github.com/bvsbharat/Google-Slate.ai)** - Google Slate.ai
+- **[dev-setup](https://github.com/bvsbharat/dev-setup)** - Complete development environment setup with CI/CD, testing, and deployment configurations
+- **[modern-dev-setup](https://github.com/bvsbharat/modern-dev-setup)** - Modern development repository with CI/CD, Docker dev containers, and comprehensive tooling setup
+- **[glass](https://github.com/bvsbharat/glass)** - Digital Mind Extension
+- **[openwork](https://github.com/bvsbharat/openwork)** - The open source Al coworker that lives on your desktop
+- **[claude-island](https://github.com/bvsbharat/claude-island)** - Claude Code notifications without the context switch. A minimal, always-present session manager for macOS.
+- **[boring.notch](https://github.com/bvsbharat/boring.notch)** - TheBoringNotch: Not so boring notch That Rocks 🎸🎶
+- **[homebrew-commander](https://github.com/bvsbharat/homebrew-commander)** - Homebrew tap for Commander - AI-powered Mac command center
+- **[Commander](https://github.com/bvsbharat/Commander)**
+- **[bvsbharat](https://github.com/bvsbharat/bvsbharat)** - Config files for my GitHub profile.
+- **[steipete](https://github.com/bvsbharat/steipete)** - Public readme
+- **[BananaCutPro](https://github.com/bvsbharat/BananaCutPro)**
+- **[banana-peel](https://github.com/bvsbharat/banana-peel)**
+- **[gemini-5head](https://github.com/bvsbharat/gemini-5head)**
+- **[Shubhamsaboo](https://github.com/bvsbharat/Shubhamsaboo)**
+- **[Sleek](https://github.com/bvsbharat/Sleek)**
+- **[projext-x](https://github.com/bvsbharat/projext-x)** - A new project repository
+- **[proCut](https://github.com/bvsbharat/proCut)**
+- **[reunite](https://github.com/bvsbharat/reunite)** - reunite
+- **[squatslive](https://github.com/bvsbharat/squatslive)** - squatslive
+
+---
 
 ## GitHub Activity
 
