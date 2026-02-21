@@ -1,4 +1,4 @@
-# Hi, I'm Bharat Satya 👋
+# Hi, I'm Bharat Bhavnasi 👋
 
 🎯 **San Francisco USA** | 🏗️ **Agent Builder** - **UX First** | 👨‍💼 **Ex-Founder** | 🏆 **30+ Hackathon winner**
 
