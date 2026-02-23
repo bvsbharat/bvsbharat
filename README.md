@@ -18,7 +18,7 @@
 
 ## Current Projects
 
-- 🞊 **[superAgents](https://github.com/bvsbharat/superAgents)** - Advanced multi-agent orchestration system
+- 🞊 **[superAgents](https://github.com/bvsbharat/SuperAgent.app)** - AI-Powered Mac Command Center 
 - 🍌 **[bananaCut](https://github.com/bvsbharat/bananaCut)** - Smart content parsing and processing toolkit
 - 🏢 **[asidely](https://github.com/bvsbharat/asidely)** - Modern web platform for productivity
 
