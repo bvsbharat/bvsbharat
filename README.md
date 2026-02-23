@@ -37,8 +37,8 @@
 - 📋 **[ClaimReimagined](https://github.com/bvsbharat/ClaimReimagined)** - AI-powered insurance claims processing and analysis platform
 - 📊 **[a-frame-graph](https://github.com/bvsbharat/a-frame-graph)** - A-frame graph for 3D visualization and data analysis
 - 💰 **[Google-Slate.ai](https://github.com/bvsbharat/Google-Slate.ai)** - Financial analytics and intelligence platform
-- 🛠️ **[Commander](https://github.com/bvsbharat/Commander)** - AI-powered Mac command center for developer productivity
-- 🎩 **[homebrew-commander](https://github.com/bvsbharat/homebrew-commander)** - Homebrew tap for Commander - AI-powered Mac command center
+- 🛠️ **[SuperAgent.app](https://github.com/bvsbharat/SuperAgent.app)** - AI-powered Mac command center and agent orchestration tool
+- 🎩 **[homebrew-commander](https://github.com/bvsbharat/homebrew-commander)** - Homebrew tap for SuperAgent.app - AI-powered Mac command center
 - 🔧 **[modern-dev-setup](https://github.com/bvsbharat/modern-dev-setup)** - Modern development repository with CI/CD, Docker dev containers, and comprehensive tooling setup
 - 🎯 **[solo-cli](https://github.com/bvsbharat/solo-cli)** - Smart command-line interface toolkit for rapid development
 - 📦 **[dev-ai-agent](https://github.com/bvsbharat/dev-ai-agent)** - Developer-focused AI agent framework
