@@ -18,10 +18,9 @@
 
 ## Current Projects
 
-- 🎙️ **[VoiceInk](https://github.com/bvsbharat/VoiceInk)** - Voice-to-text app for macOS; real-time transcription
-- 🤖 **[open-agent-sdks](https://github.com/bvsbharat/open-agent-sdks)** - SDKs for building agentic applications  
-- 🏗️ **[agent-builder-hacka](https://github.com/bvsbharat/agent-builder-hacka)** - Agent patterns & orchestration toolkit
-- 🎵 **[SleekVoice](https://github.com/bvsbharat/SleekVoice)** - Voice AI framework for conversational experiences
+- 🦸 **[superAgents](https://github.com/bvsbharat/superAgents)** - Advanced multi-agent orchestration system
+- 🍌 **[bananaCut](https://github.com/bvsbharat/bananaCut)** - Smart content parsing and processing toolkit
+- 🏢 **[asidely](https://github.com/bvsbharat/asidely)** - Modern web platform for productivity
 
 ## Open Source
 
