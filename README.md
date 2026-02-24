@@ -42,6 +42,13 @@
 - 🎯 **[solo-cli](https://github.com/bvsbharat/solo-cli)** - Smart command-line interface toolkit for rapid development
 - 📦 **[dev-ai-agent](https://github.com/bvsbharat/dev-ai-agent)** - Developer-focused AI agent framework
 
+
+
+## GitHub Activity
+
+![GitHub Contribution Graph](https://ghchart.rshah.org/bvsbharat)
+
+
 ## Core Specialties
 
 🎙️ Voice AI Agents | 🤖 Agentic Applications | 🏗️ Agent SDKs | 🗣️ Conversational AI | 💡 LLM Optimization
