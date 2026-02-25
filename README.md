@@ -21,7 +21,8 @@
 
 ## Current Projects
 
-- 🞊 **[superAgents](https://github.com/bvsbharat/SuperAgent.app)** - AI-Powered Mac Command Center 
+- 🞊 **[superAgents](https://github.com/bvsbharat/SuperAgent.app)** - AI-Powered Mac Command Center
+- 🞊 **[solo-cli](https://github.com/GetSoloTech/solo-cli)** - Fastest way to deploy Physical AI on your hardware
 - 🍌 **[bananaCut](https://github.com/bvsbharat/bananaCut)** - Smart content parsing and processing toolkit
 - 🏢 **[asidely](https://github.com/bvsbharat/asidely)** - Modern web platform for productivity
 
