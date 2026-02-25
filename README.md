@@ -43,7 +43,7 @@
 - 🛠️ **[SuperAgent.app](https://github.com/bvsbharat/SuperAgent.app)** - AI-powered Mac command center and agent orchestration tool
 - 🎩 **[homebrew-commander](https://github.com/bvsbharat/homebrew-commander)** - Homebrew tap for SuperAgent.app - AI-powered Mac command center
 - 🔧 **[modern-dev-setup](https://github.com/bvsbharat/modern-dev-setup)** - Modern development repository with CI/CD, Docker dev containers, and comprehensive tooling setup
-- 🎯 **[solo-cli](https://github.com/bvsbharat/solo-cli)** - Smart command-line interface toolkit for rapid development
+- 🎯 **[solo-cli](https://github.com/GetSoloTech/solo-cli)** - Smart command-line interface toolkit for rapid development — production-grade open-source project
 - 📦 **[dev-ai-agent](https://github.com/bvsbharat/dev-ai-agent)** - Developer-focused AI agent framework
 
 
@@ -55,7 +55,7 @@
 
 ## Core Specialties
 
-🎙️ Voice AI Agents | 🤖 Agentic Applications | 🏗️ Agent SDKs | 🗣️ Conversational AI | 💡 LLM Optimization
+😙️ Voice AI Agents | 🤖 Agentic Applications | 🏗️ Agent SDKs | 🗣️ Conversational AI | 💡 LLM Optimization
 
 ## Tech Stack
 
