@@ -21,21 +21,20 @@
 
 ## Current Projects
 
-- 🞊 **[superAgents](https://github.com/bvsbharat/SuperAgent.app)** - AI-Powered Mac Command Center
 - 🤖 **[solo-cli](https://github.com/GetSoloTech/solo-cli)** - Fastest way to deploy Physical AI on your hardware
-- 🍌 **[bananaCut](https://github.com/bvsbharat/bananaCut)** - Smart content parsing and processing toolkit
+- 🎙️ **[VoiceInk](https://github.com/bvsbharat/VoiceInk)** - Voice recording and transcription engine for conversational AI applications
+- ⚡ **[chaos-coder](https://github.com/aj47/chaos-coder)** - Generate 9 separate websites in seconds with chaotic editing capabilities (89🔥)
+- 🞊 **[superAgents](https://github.com/bvsbharat/SuperAgent.app)** - AI-Powered Mac Command Center
 - 🏢 **[asidely](https://github.com/bvsbharat/asidely)** - Modern web platform for productivity
 
 ## Open Source
 
 - 🤖 **[Asidely](https://github.com/Asidely/Asidely.app)** - Your side AI helper, anywhere. Production-grade Mac application for intelligent context-aware assistance without leaving your workflow.
-- 🎙️ **[VoiceInk](https://github.com/bvsbharat/VoiceInk)** - Voice recording and transcription engine for conversational AI applications
 - 🤖 **[open-agent-sdks](https://github.com/bvsbharat/open-agent-sdks)** - Production-grade SDKs for building voice AI agents with multi-language support
 - 🎵 **[SleekVoice](https://github.com/bvsbharat/SleekVoice)** - Production voice AI agent platform for enterprises - Mac CLI tool
 - 💡 **[Dev-Agents](https://github.com/bvsbharat/Dev-Agents)** - Development-focused AI agents for code generation, debugging, and optimization
 - 🎨 **[CreativeAgent](https://github.com/bvsbharat/CreativeAgent)** - AI agent framework for creative content generation and brand automation
 - 📊 **[devkit-ai](https://github.com/bvsbharat/devkit-ai)** - AI-powered developer toolkit for building and optimizing applications
-- ⚡ **[chaos-coder](https://github.com/aj47/chaos-coder)** - Generate 9 separate websites in seconds with chaotic editing capabilities (89🔥)
 - 🗺️ **[Gemini-Navigator](https://github.com/bvsbharat/Gemini-Navigator)** - Public websites like IRS.gov often frustrate users with endless searching for vital information. GeminiNavigator guides users straight to answers, saving time and effort
 - 🏢 **[asidely-website](https://github.com/bvsbharat/asidely-website)** - Professional website and landing page platform
 - 📋 **[ClaimReimagined](https://github.com/bvsbharat/ClaimReimagined)** - AI-powered insurance claims processing and analysis platform
