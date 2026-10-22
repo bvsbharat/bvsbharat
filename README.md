@@ -1,6 +1,6 @@
 # Hi, I'm Bharat Bhavnasi 👋
 
-🎯 **San Francisco USA** | 🏗️ **Agent Builder** - **AX First** | 👨‍💼 **Ex-Founder** | 🚀 **30+ Hackathon winner**
+🎯 **San Francisco USA** | 🏗️ **Agent Builder** - **AX First** | 👨‍💼 **Ex-Founder** | 🚀 **40+ Hackathon winner**
 
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
